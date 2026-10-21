@@ -9,5 +9,3 @@
 - **Technology:** Java
 - **Description:** A set of academic programs demonstrating encapsulation, method overloading, inheritance, and runtime polymorphism.
 - **Concepts practiced:** Classes, objects, access modifiers, constructors, inheritance, and method overriding.
-
-> These are academic exercises based on coursework. Replace or expand them with your actual projects before presenting this profile professionally.
