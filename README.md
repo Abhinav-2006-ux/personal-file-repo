@@ -1,13 +1,13 @@
 # Professional Profile
 
-- **Full Name:** Abhinav [add your full name]
-- **Roll Number:** [Add your roll number]
+- **Full Name:** Abhinav 
+- **Roll Number:** 2581105
 - **Program:** B.Tech in Computer Science and Engineering
-- **Year / Semester:** Year II / [add current semester]
-- **Section:** [Add your section]
+- **Year / Semester:** Year II / 3
+- **Section:** D
 - **College:** IILM University
-- **College Email:** [Add your college email]
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **College Email:** abhinav.2025.ug25@iilm.edu
+- **LinkedIn:** https://linkedin.com/
 
 ## Career Objective
 
@@ -15,6 +15,4 @@ To strengthen my software development and problem-solving skills by building pra
 
 ## About Me
 
-I am a B.Tech CSE student interested in programming, software development, and learning how to build useful, reliable applications.
-
-> **Before submission:** Replace every bracketed placeholder with your actual details.
+I am a B.Tech CSE student interested in programming, software development, and learning how to build useful.
