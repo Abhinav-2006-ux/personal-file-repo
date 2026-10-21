@@ -22,5 +22,3 @@
 - Communication
 - Time management
 - Willingness to learn
-
-> Update this list so it reflects skills you can confidently explain and demonstrate.
