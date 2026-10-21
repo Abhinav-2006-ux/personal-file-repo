@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary and log files
+*.tmp
+*.log
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Java compiled files
+*.class
